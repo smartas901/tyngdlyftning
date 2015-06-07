@@ -1,0 +1,2 @@
+# tyngdlyftning
+C - programming
